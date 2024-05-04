@@ -1,0 +1,21 @@
+.historias-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .historia-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .historia-item:hover {
+    background-color: hsl(0, 1%, 58%);
+  }
+  
+  
+  
+  
